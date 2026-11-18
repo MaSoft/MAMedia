@@ -36,7 +36,7 @@ Más información y los manuales también en [masoft.es](https://masoft.es/desca
 | | |
 |---|---|
 | Sistema | Windows 10 u 11 (64 bits) |
-| Instalación | Instalador para tu usuario, sin permisos de administrador, o ejecutable único que se copia y se abre; Python va dentro. |
+| Instalación | Instalador para tu usuario, sin permisos de administrador, o ejecutable único que se copia y se abre; no hace falta instalar nada más. |
 | Espacio | Unos 250 MB instalado. Tus vídeos y tu música no se copian. |
 | Tarjeta gráfica | Con OpenGL y su controlador instalado. |
 | Pantalla | Desde 1024 × 600 |
